@@ -54,23 +54,23 @@
   "services": [
     {
       "id": "1",
-      "title": "Art Direction",
-      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      "title": "Web Design UI",
+      "description": "I provide service to create user-friendly, visually appealing digital interfaces through user research, wireframing, prototyping, and iterative design."
     },
     {
       "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      "title": "Web Application Development",
+      "description": "I build interactive web applications with advanced functionality, using React for the front end and Node.js, Express.js for the back end."
     },
     {
       "id": "3",
-      "title": "Web Design",
-      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      "title": "API Development",
+      "description": "As a Full-stack developer I can build RESTful APIs to enable communication between front-end and back-end systems."
     },
     {
       "id": "4",
-      "title": "3D Design",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      "title": "Maintenance and Updates",
+      "description": "I provide ongoing maintenance, bug fixes, and updates to ensure the smooth operation of websites and applications."
     }
   ],
   "aboutpara": "I'm a computer science undergraduate with a strong passion for technology. Currently, I'm actively working on MERN stack projects, focusing on MongoDB, Express.js, React, and Node.js. Simultaneously, I'm dedicated to mastering Data Structures and Algorithms (DSA) to build a solid foundation for efficient software development.",
