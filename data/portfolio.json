@@ -2,8 +2,8 @@
   "name": "Hemanth Kumar",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Hemanth Kumar",
-  "headerTaglineThree": "MERN Developer",
-  "headerTaglineFour": "based in India",
+  "headerTaglineThree": "MERN Developer,",
+  "headerTaglineFour": "Programmer",
   "showCursor": true,
   "showBlog": false,
   "darkMode": true,
@@ -75,31 +75,24 @@
   ],
   "aboutpara": "I'm a computer science undergraduate with a strong passion for technology. Currently, I'm actively working on MERN stack projects, focusing on MongoDB, Express.js, React, and Node.js. Simultaneously, I'm dedicated to mastering Data Structures and Algorithms (DSA) to build a solid foundation for efficient software development.",
   "resume": {
-    "tagline": "👋  I'm a web developer,  programmer.",
-    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "tagline": "👋  I'm a passionate web developer,  programmer.",
+    "description": "Skilled in front-end and back-end technologies. I create user-friendly websites and tackle complex problems with elegant solutions. I always aspire to keep learning and applying tech to solve real-world challenges.",
     "experiences": [
       {
         "id": "1",
-        "dates": "March 2022 - Present",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Bullet One, Bullet Two"
-      },
-      {
-        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-        "dates": "July 2020 - March 2022",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+        "dates": "October 2022 - January 2023",
+        "type": "Remote",
+        "position": "Web Developer and Automation Engineer",
+        "bullets": "Transformed and Modernized the company website, Added user authentication and customized user privileges, Streamlined data analysis, and automated individualized PDF report generation from provided Excel data using Python"
       }
     ],
     "education": {
-      "universityName": "University X",
-      "universityDate": "2016-2020",
-      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      "universityName": "Lendi Institute of Engineering and Technology",
+      "universityDate": "2020-2024",
+      "universityPara": "I'm Currently pursuing my Computer Science undergraduate degree"
     },
-    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
-    "frameworks": ["React", "Typescript", "NodeJs"],
-    "others": ["Figma", "AdobeXD", "AWS"]
+    "languages": ["Vanilla Javascript", "HTML5", "CSS", "Python", "Core Java","C++"],
+    "frameworks": ["React", "NodeJs","ExpressJs","BootStrap","Django","JSP"],
+    "others": ["Figma", "AdobePS", "Canva","Java Servelts", "Git","JDBC"]
   }
 }
