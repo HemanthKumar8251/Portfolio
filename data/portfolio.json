@@ -2,7 +2,7 @@
   "name": "Hemanth Kumar",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Hemanth Kumar",
-  "headerTaglineThree": "MERN developer",
+  "headerTaglineThree": "MERN Developer",
   "headerTaglineFour": "based in India",
   "showCursor": true,
   "showBlog": false,
@@ -24,45 +24,31 @@
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Nourish Me",
+      "description": "Web App",
+      "imageSrc": "https://source.unsplash.com/-YHSwy6uqvk",
+      "url": "https://github.com/HemanthKumar8251/NourishMe"
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Smart Shop",
+      "description": "Web App",
+      "imageSrc": "https://source.unsplash.com/OGOWDVLbMSc",
+      "url": "https://github.com/HemanthKumar8251/SmartShop"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Agro Buy",
+      "description": "Mobile App Design",
+      "imageSrc": "https://source.unsplash.com/HEWUyPfjQQo",
+      "url": "https://www.figma.com/proto/O3Na8bUctshR3YZ8kvIrZg/AgroBuy-for-AGRIHACK?page-id=0%3A1&type=design&node-id=18-22&viewport=-3%2C498%2C0.15&t=VL2xbc3klpOyzxg4-1&scaling=scale-down&starting-point-node-id=12%3A3&mode=design"
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Keep Notes",
+      "description": "React based Web App",
+      "imageSrc": "https://source.unsplash.com/333oj7zFsdg",
+      "url": "https://keep-notes-tngm.onrender.com"
     }
   ],
   "services": [
@@ -87,7 +73,7 @@
       "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "I'm a computer science undergraduate with a strong passion for technology. Currently, I'm actively working on MERN stack projects, focusing on MongoDB, Express.js, React, and Node.js. Simultaneously, I'm dedicated to mastering Data Structures and Algorithms (DSA) to build a solid foundation for efficient software development.",
   "resume": {
     "tagline": "👋  I'm a web developer,  programmer.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
